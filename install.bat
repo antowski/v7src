@@ -1,6 +1,6 @@
 @echo off
 
-set version=0.1
+set version=0.2
 set PackageFile=v7src-%version%.ospx
 rem echo %PackageFile%
 
